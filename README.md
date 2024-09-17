@@ -1,6 +1,6 @@
 # User Directory App
 
-This project is a simple web application with a login page and user directory built using React and TypeScript.
+This project is a simple web application with a login page and Dashboard built using React and TypeScript.
 
 ## Features:
 - Login with username and password (mock data and can register more user store in local storage)
